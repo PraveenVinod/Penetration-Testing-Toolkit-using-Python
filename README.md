@@ -43,6 +43,16 @@ To install required modules, run:
 
 ---
 
+##📁 Folder Structure
+Penetration-Testing-Toolkit/
+- main.py
+│ modules/
+- port_scanner.py
+- banner_grabber.py
+- brute_forcer.py
+- html_report.py
+
+---
 ## ⚙️ Usage
 **Step 1: Run the Program**
 
